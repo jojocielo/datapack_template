@@ -22,13 +22,13 @@
 
 ## Documentation:
 ### Creating a Data Pack (and using `/execute` with conditionals)
-[Minecraft Wiki: Creating a data pack](https://minecraft.fandom.com/wiki/Tutorials/Creating_a_data_pack)
-[Minecraft Wikik: Execute](https://minecraft.fandom.com/wiki/Commands/execute)
+[Minecraft Wiki: Creating a data pack](https://minecraft.fandom.com/wiki/Tutorials/Creating_a_data_pack)  
+[Minecraft Wikik: Execute](https://minecraft.fandom.com/wiki/Commands/execute)  
 [Unicorn Utterances' Data Pack Tutorial](https://unicorn-utterances.com/collections/minecraft-data-packs)
 
 ## Using the Scoreboard
 [Minecraft Wiki: Scoreboard](https://minecraft.fandom.com/wiki/Scoreboard)
 
 ### Creating Predicates
-[Minecraft Wiki: Predicate](https://minecraft.fandom.com/wiki/Predicate)
+[Minecraft Wiki: Predicate](https://minecraft.fandom.com/wiki/Predicate)  
 [Misode's Predicate Generator](https://misode.github.io/predicate)
